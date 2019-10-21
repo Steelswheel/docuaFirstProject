@@ -1,0 +1,238 @@
+body {
+	background-color: #d3d3d3;
+	margin: 0;
+}
+.fullwrap {
+background-color: #f5fffa;
+min-width: 1280px;
+min-height: 1300px;
+width: 1280px;
+margin: 5%;
+clear: both;
+}
+.header {
+	clear: both;
+	background-image: url(doc_ua_src/header_bg.gif);
+	min-height: 300px;
+	min-width: 1280px;
+}
+.text {
+	font-family: sans-serif;
+	font-size: 20px;
+	margin: 80px;
+	clear: both;
+	width: 1180px;
+	min-width: 1180px;
+}
+.block1 {
+	margin: 0;
+	display: inline;
+	width: 1180px;
+	min-width: 1180px;
+}
+.container1 {
+	clear: both;
+	display: inline;
+}
+.container2 {
+	clear: both;
+	display: inline;
+}
+.container3 {
+    clear: both;
+	display: inline;
+}
+.pic1 {
+    margin: 50px 50px 50px 80px;
+	display: inline;
+	width: 510px;
+	min-width: 510px;
+	float: left;
+}
+.pic2 {
+	margin: 50px 80px 50px 50px;
+	display: inline;
+	width: 510px;
+	min-width: 510px;
+	float: right;
+}
+.text1 {
+	font-family: sans-serif;
+	text-align: left;
+	font-size: 20px;
+	width: 510px;
+	min-width: 510px;
+	margin: 0px 50px 50px 80px;
+	float: left;
+}
+.text2 {
+	text-align: left;
+	font-family: sans-serif;
+	font-size: 20px;
+	width: 510px;
+	min-width: 510px;
+	margin: 0px 50px 50px 50px;
+	float:left;
+}
+.button1 {
+	width: 510px;
+	min-width: 510px;
+	margin: 0px 50px 50px 80px;
+	float: left;
+    font-family: 'Roboto Condensed', sans-serif;
+    background: #ee6123;
+    height: 40px;
+    border-radius: 5px;
+    color: #fff;
+    text-align: center;
+    font-size: 18px;
+    text-transform: uppercase;
+    line-height: 40px;
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+}
+.button2 {
+	width: 510px;
+	min-width: 510px;
+	margin: 0px 50px 50px 50px;
+	float: left;
+    font-family: 'Roboto Condensed', sans-serif;
+    background: #ee6123;
+    height: 40px;
+    border-radius: 5px;
+    color: #fff;
+    text-align: center;
+    font-size: 18px;
+    text-transform: uppercase;
+    line-height: 40px;
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+}
+.block2 {
+	margin: 0;
+	display: inline;
+	width: 1180px;
+	min-width: 1180px;
+}
+.container3 {
+	clear: both;
+	display: inline;
+}
+.container4 {
+	clear: both;
+	display: inline;
+}
+.container5 {
+    clear: both;
+	display: inline;
+}
+.container6 {
+	background: #ee6123;
+	clear: both;
+	display: inline;
+}
+.pic3 {
+    margin: 0px 0px 50px 80px;
+	display: inline;
+	width: 320px;
+	min-width: 320px;
+	float: left;
+}
+.pic4 {
+	margin: 0px 0px 50px 80px;
+	display: inline;
+	width: 320px;
+	min-width: 320px;
+	float: left;
+}
+.pic5 {
+	margin: 0px 80px 50px 0px;
+	display: inline;
+	width: 320px;
+	min-width: 320px;
+	float: right;
+}
+.text3 {
+	font-family: sans-serif;
+	text-align: left;
+	font-size: 20px;
+	width: 320px;
+	min-width: 320px;
+	margin: 0px 0px 50px 80px;
+	float: left;
+}
+.text4 {
+	text-align: left;
+	font-family: sans-serif;
+	font-size: 20px;
+	width: 320px;
+	min-width: 320px;
+	margin: 0px 0px 50px 80px;
+	float:left;
+}
+.text5 {
+	text-align: left;
+	font-family: sans-serif;
+	font-size: 20px;
+	width: 320px;
+	min-width: 320px;
+	margin: 0px 80px 50px 80px;
+	float: left;
+}
+.button3 {
+	float: left;
+	width: 320px;
+	min-width: 320px;
+	margin: 0px 0px 50px 80px;
+    font-family: 'Roboto Condensed', sans-serif;
+    background: #ee6123;
+    height: 40px;
+    border-radius: 5px;
+    color: #fff;
+    text-align: center;
+    font-size: 18px;
+    text-transform: uppercase;
+    line-height: 40px;
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+}
+.button4 {
+	float: left;
+	width: 320px;
+	min-width: 320px;
+	margin: 0px 0px 50px 80px;
+    font-family: 'Roboto Condensed', sans-serif;
+    background: #ee6123;
+    height: 40px;
+    border-radius: 5px;
+    color: #fff;
+    text-align: center;
+    font-size: 18px;
+    text-transform: uppercase;
+    line-height: 40px;
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+}
+.button5 {
+	width: 320px;
+	min-width: 320px;
+	margin: 0px 80px 50px 80px;
+	float: right;
+    font-family: 'Roboto Condensed', sans-serif;
+    background: #ee6123;
+    height: 40px;
+    border-radius: 5px;
+    color: #fff;
+    text-align: center;
+    font-size: 18px;
+    text-transform: uppercase;
+    line-height: 40px;
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+}
+.footer
